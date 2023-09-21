@@ -1,0 +1,28 @@
+.speech
+{
+    font-family: "Arial", Helvetica;
+    font-size: 16px;
+    color: black;
+}
+
+.direction
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+    color: black;
+}
+
+.direction:hover
+{
+    background-color: aqua;
+}
+
+.avling
+{
+    color: green;
+}
+
+.manders
+{
+    color: red;
+}
